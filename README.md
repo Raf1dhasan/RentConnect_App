@@ -30,13 +30,15 @@ This project was created to:
 
 ## Screenshots
 
-### Home Page
-<img src="screenshot-home.png" alt="Home Page" width="300">
 
-### Property Search
-<img src="screenshot-search.png" alt="Property Search" width="300">
+<img src="sd1.png" alt="Home Page" width="300">
+<img src="sd2.png" alt="Home Page" width="300">
+<img src="sd3.png" alt="Home Page" width="300">
+<img src="sd4.png" alt="Home Page" width="300">
+<img src="sd5.png" alt="Home Page" width="300">
+<img src="sd6.png" alt="Home Page" width="300">
 
-*(Replace `screenshot-home.png` and `screenshot-search.png` with the actual image files.)*
+
 
 ---
 
