@@ -96,7 +96,7 @@ Download the app directly from the Google Play Store:
 - Implement notifications for new property listings and updates.
 - Enhance search filters for amenities and property types.
 
-Contact
+## Contact
 If you'd like to learn more about this project or discuss opportunities, feel free to reach out:
 
 Email: rafidhasan202@gmail.com
