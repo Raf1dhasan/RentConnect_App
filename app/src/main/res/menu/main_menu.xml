@@ -1,0 +1,25 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/action_contact_us"
+        android:orderInCategory="100"
+        android:title="Contact us"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_about_us"
+        android:orderInCategory="101"
+        android:title="About us"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_add_house"
+        android:orderInCategory="102"
+        android:title="Add House"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/action_logout"
+        android:orderInCategory="103"
+        android:title="Logout"
+        app:showAsAction="never" />
+
+
+</menu>

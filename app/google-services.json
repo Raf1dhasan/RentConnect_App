@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "388798175647",
+    "firebase_url": "https://rent-connect-496c4-default-rtdb.firebaseio.com",
+    "project_id": "rent-connect-496c4",
+    "storage_bucket": "rent-connect-496c4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:388798175647:android:e3ff30081c9b14140685aa",
+        "android_client_info": {
+          "package_name": "com.rafid.rect_connect"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "388798175647-jt0t59eaj9gc5ebkjbgddfntmrbs3qhi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdxVufGWrQ-josLwWm2bmGljmaaMzURQk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "388798175647-jt0t59eaj9gc5ebkjbgddfntmrbs3qhi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:388798175647:android:2ba54c913da9012c0685aa",
+        "android_client_info": {
+          "package_name": "com.example.rental"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "388798175647-jt0t59eaj9gc5ebkjbgddfntmrbs3qhi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdxVufGWrQ-josLwWm2bmGljmaaMzURQk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "388798175647-jt0t59eaj9gc5ebkjbgddfntmrbs3qhi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

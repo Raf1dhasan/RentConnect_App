@@ -1,0 +1,70 @@
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/card_view"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_margin="8dp"
+    app:cardCornerRadius="16dp"
+    app:cardElevation="8dp"
+    android:backgroundTint="@android:color/transparent"
+    app:cardBackgroundColor="#F8F9FA"
+    android:clickable="true"
+    android:focusable="true">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="16dp">
+
+        <ImageView
+            android:id="@+id/image"
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:scaleType="centerCrop"
+            android:src="@android:drawable/ic_menu_gallery"
+            android:layout_marginBottom="12dp"
+            android:backgroundTint="#E8E8F9"
+            android:elevation="2dp"
+            android:contentDescription="@string/item_image_description" />
+
+        <com.google.android.material.textview.MaterialTextView
+            android:id="@+id/name"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/image"
+            android:textSize="20sp"
+            android:textStyle="bold"
+            android:textColor="#4A4A4A"
+            android:text="@string/item_name"
+            android:fontFamily="sans-serif-medium" />
+
+        <com.google.android.material.textview.MaterialTextView
+            android:id="@+id/description"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/name"
+            android:maxLines="3"
+            android:ellipsize="end"
+            android:text="@string/item_description"
+            android:textColor="#606060"
+            android:textSize="14sp"
+            android:layout_marginTop="8dp"
+            android:fontFamily="sans-serif-light" />
+
+        <com.google.android.material.button.MaterialButton
+            android:id="@+id/see_more"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/description"
+            android:text="@string/see_more"
+            android:textColor="@android:color/white"
+            android:backgroundTint="#9C27B0"
+            app:cornerRadius="25dp"
+            app:icon="@android:drawable/ic_menu_view"
+            app:iconPadding="8dp"
+            app:iconTint="@android:color/white"
+            android:layout_marginTop="12dp"
+            android:elevation="4dp" />
+    </RelativeLayout>
+
+</androidx.cardview.widget.CardView>

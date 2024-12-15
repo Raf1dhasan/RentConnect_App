@@ -1,0 +1,37 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="16dp"
+    android:background="@color/white"> <!-- Set background to white for a clean look -->
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:gravity="center_horizontal"
+        android:padding="24dp">
+
+        <!-- About Us Title -->
+        <com.google.android.material.textview.MaterialTextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="About Us"
+            android:textColor="@color/lavender"
+            android:textStyle="bold"
+            android:textSize="24sp"
+            android:gravity="center"
+            android:paddingBottom="16dp" />
+
+        <!-- Description Text -->
+        <com.google.android.material.textview.MaterialTextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Welcome to our Rent Connect App! We're dedicated to helping you find the perfect home for your needs. Our platform is designed to simplify the rental process, connecting you with a diverse range of houses, apartments, and condos. Whether you're looking for a cozy one-bedroom in the heart of the city or a spacious family home in the suburbs, we've got you covered.\n\nOur mission is to make finding and securing your dream rental a breeze. Join our community of renters and landlords today and start your journey towards a comfortable and convenient living experience!"
+            android:textColor="@color/black"
+            android:textSize="16sp"
+            android:lineSpacingExtra="8dp"
+            android:padding="8dp" />
+
+    </LinearLayout>
+
+</ScrollView>

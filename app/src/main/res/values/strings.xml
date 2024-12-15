@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">rent-connect</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="item_name">Item Name</string>
+    <string name="item_description">Item Description</string>
+    <string name="see_more">See More</string>
+    <string name="item_image_description">Image of the listed item</string>
+    <string name="image_preview">Images</string>
+</resources>
