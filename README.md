@@ -31,12 +31,12 @@ This project was created to:
 ## Screenshots
 
 
-<img src="sd1.png" alt="Home Page" width="300">
-<img src="sd2.png" alt="Home Page" width="300">
-<img src="sd3.png" alt="Home Page" width="300">
-<img src="sd4.png" alt="Home Page" width="300">
-<img src="sd5.png" alt="Home Page" width="300">
-<img src="sd6.png" alt="Home Page" width="300">
+<img src="sd1.jpg" alt="Home Page" width="300">
+<img src="sd2.jpg" alt="Home Page" width="300">
+<img src="sd3.jpg" alt="Home Page" width="300">
+<img src="sd4.jpg" alt="Home Page" width="300">
+<img src="sd5.jpg" alt="Home Page" width="300">
+<img src="sd6.jpg" alt="Home Page" width="300">
 
 
 
