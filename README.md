@@ -65,7 +65,7 @@ Download the app directly from the Google Play Store:
 
 
 
-[**YouTube Demo**](https://docs.google.com/presentation/d/1kbdYHzFSnxNreowK5HqhbIKAfxlBl3ET/edit?usp=sharing&ouid=102191118768357450138&rtpof=true&sd=true)
+[**Presentation**](https://docs.google.com/presentation/d/1kbdYHzFSnxNreowK5HqhbIKAfxlBl3ET/edit?usp=sharing&ouid=102191118768357450138&rtpof=true&sd=true)
 
 
 
