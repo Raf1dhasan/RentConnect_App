@@ -46,9 +46,9 @@ This project was created to:
 
 Watch the complete demo of the app in action:
 
-[**YouTube Demo**](https://youtu.be/YOUR_YOUTUBE_LINK)
+[**YouTube Demo**](https://youtu.be/g_f0EqEVXPM)
 
-*(Replace `YOUR_YOUTUBE_LINK` with your actual YouTube video link.)*
+
 
 ---
 
